@@ -1,1 +1,1 @@
-# django_rest_frameworkw_with_api
+# django_rest_frameworkw_quickstart
