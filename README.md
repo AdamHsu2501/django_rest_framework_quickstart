@@ -47,5 +47,5 @@
         ]
     }
     ```
-    * Test with broswer http://127.0.0.1:8000/ & login with acount: admin, password: admin 
+    * Test with broswer http://127.0.0.1:8000/ and login with Username ```admin``` Password ```admin``` 
 ![](https://i.imgur.com/OJnwbxY.png)
