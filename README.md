@@ -21,7 +21,8 @@
     # Start server
     > python manage.py runserver
     ````
-3. Open ****Git Bash****
+3. Test
+    * Test with ****Git Bash****
     ```
     $ curl -H 'Accept: application/json; indent=4' -u admin:admin http://127.0.0.1:8000/users/
     {
@@ -46,5 +47,5 @@
         ]
     }
     ```
-13. Open broswer http://127.0.0.1:8000/ & login with acount: admin, password: admin 
+    * Test with broswer http://127.0.0.1:8000/ & login with acount: admin, password: admin 
 ![](https://i.imgur.com/OJnwbxY.png)
