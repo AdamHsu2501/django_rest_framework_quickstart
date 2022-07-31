@@ -1,12 +1,12 @@
-# django_rest_frameworkw_quickstart
+# django_rest_framework_quickstart
 
 
 1. Install Python <https://www.python.org/>
 2. Open ****cmd****
     ```
     # download repo
-    > git clone https://github.com/AdamHsu2501/django_rest_frameworkw_quickstart.git
-    > cd django_rest_frameworkw_quickstart
+    > git clone https://github.com/AdamHsu2501/django_rest_framework_quickstart.git
+    > cd django_rest_framework_quickstart
     
     # install pipenv
     > pip install pipenv
